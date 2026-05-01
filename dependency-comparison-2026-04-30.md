@@ -1,10 +1,5 @@
 Total libraries analyzed: 192 (matches dependency.md)
 
-> **Version source:** Context7 quota was exceeded; latest versions were determined via Maven Central REST API (`search.maven.org`) on 2026-04-30.
-> **Version Properties** rows (entries with `dep.*` names) are Maven POM property definitions; their latest versions are sourced from the primary corresponding Maven artifact on Maven Central.
-> Rows labelled **"version scheme changed"** indicate a project that switched from semantic versioning to build-number versioning (Alluxio: 2.x → 3-digit build numbers).
-> Pre-release markers: **(alpha only)** = no stable release beyond current; **(RC only)** = release candidate only beyond current.
-
 | # | Library | Current Version | Latest Version (Maven Central) | Status |
 |---|---------|-----------------|-------------------------------|--------|
 | 1 | io.netty:netty-all | 4.2.12.Final | 5.0.0.Alpha2 | 1 major behind (pre-release only) |
